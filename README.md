@@ -11,4 +11,4 @@ Explore a plethora of C language codes, including examples for basic syntax, dat
 ### Contribution
 Contributions are highly encouraged! If you have additional C language codes, optimizations, or innovative solutions to share, please submit a pull request. Let's collaborate to make this repository a vibrant hub for the C programming community.
 
-##### Happy coding!
+#### Happy coding!
